@@ -33,6 +33,12 @@ dependencies:
   firebase_storage: ^3.0.2 #ARMAZENAMENTO AQUIVOS
   cloud_firestore: ^0.12.5+2 #BANCO DE DADOS
   image_picker: ^0.6.0+10
+  flutter_launcher_icons: ^0.7.5
+
+flutter_icons:
+  image_path: 'icon/icon.png'
+  android: true
+  ios: true
 
 dev_dependencies:
   flutter_test:
