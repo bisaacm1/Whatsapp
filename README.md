@@ -21,7 +21,6 @@
 
 ### Mobile Screenshot
 <div>
-   <img src="./.github/cadastro.PNG" width="180">
    <img src="./.github/login.jpg" width="180">
    <img src="./.github/conversa.jpg" width="180">
    <img src="./.github/contatos.jpg" width="180">
